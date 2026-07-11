@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import App from "./App.jsx";
 import Layout from "./layouts/Layout.jsx";
 
-import Indicacoes from "./pages/Indicacoes.jsx";
+import Indicacoes from "./pages/indicacoes.jsx";
 import MinhasIndicacoes from "./pages/MinhasIndicacoes.jsx";
 import Login from "./pages/Login.jsx";
 import Painel from "./pages/Painel.jsx";
