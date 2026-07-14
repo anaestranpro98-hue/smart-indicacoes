@@ -7,7 +7,7 @@ import Layout from "./layouts/Layout.jsx";
 
 import Indicacoes from "./pages/Indicacoes.jsx";
 import MinhasIndicacoes from "./pages/MinhasIndicacoes.jsx";
-import Login from "./pages/login.jsx";
+import Login from "./pages/Login.jsx";
 import Painel from "./pages/Painel.jsx";
 import Vendedores from "./pages/Vendedores.jsx";
 import Campanhas from "./pages/Campanhas.jsx";
